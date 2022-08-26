@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//shiqi1998q.github.io/morney-website/static/css/main.6a74c925.css",
+    "main.js": "//shiqi1998q.github.io/morney-website/static/js/main.01da1798.js",
+    "static/js/529.aef7b010.chunk.js": "//shiqi1998q.github.io/morney-website/static/js/529.aef7b010.chunk.js",
+    "index.html": "//shiqi1998q.github.io/morney-website/index.html",
+    "main.6a74c925.css.map": "//shiqi1998q.github.io/morney-website/static/css/main.6a74c925.css.map",
+    "main.01da1798.js.map": "//shiqi1998q.github.io/morney-website/static/js/main.01da1798.js.map",
+    "529.aef7b010.chunk.js.map": "//shiqi1998q.github.io/morney-website/static/js/529.aef7b010.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a74c925.css",
+    "static/js/main.01da1798.js"
+  ]
+}
